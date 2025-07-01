@@ -1,3 +1,2 @@
 # Student-Mangment-System
-This is Zarrar Sultan
-Hoy
+This is Zarrar Sultan <br> Hoy
