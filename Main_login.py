@@ -13,7 +13,6 @@ import mysql.connector as sq
 db = sq.connect(host="localhost", user="root", password="1234", database="KFC")
 mycursor = db.cursor()
 
-# Ensure tables are created
 def create_database():
     mycursor.execute("SET FOREIGN_KEY_CHECKS = 0")
 
